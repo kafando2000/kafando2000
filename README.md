@@ -9,7 +9,7 @@ I enjoy building practical software and exploring technologies across web develo
   <a href="https://github.com/kafando2000?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
   </a>
-  <a href="https://github.com/kafando2000?tab=stars">
+  <a href="https://github.com/kafando2000?tab=pinned">
     <img src="https://img.shields.io/badge/My%20Starred%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="My starred projects" />
   </a>
 </p>
