@@ -1,6 +1,3 @@
-<p align="right">
-  <a href="#theme-toggle">🌓 <strong>Toggle theme</strong></a>
-</p>
 
 # Hi, I'm Kafando 👋
 
