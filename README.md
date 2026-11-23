@@ -9,9 +9,16 @@ I enjoy building practical software and exploring technologies across web develo
   <a href="https://github.com/kafando2000?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
   </a>
-  <a href="https://github.com/kafando2000?tab=pinned">
-    <img src="https://img.shields.io/badge/My%20Starred%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="My starred projects" />
+  <a href="https://github.com/kafando2000/SmartInventoryHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=SmartInventoryHub&theme=transparent&hide_border=true" />
+</a>
+  <a href="https://github.com/kafando2000/ConfidentVotesAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=ConfidentVotesAPI&theme=transparent&hide_border=true" />
+</a>
   </a>
+  <a href="https://github.com/kafando2000/EaseEventApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=EaseEventApp&theme=transparent&hide_border=true" />
+</a>
 </p>
 
 ## 👨‍💻 About Me
