@@ -50,7 +50,7 @@ I enjoy building practical software and exploring technologies across web develo
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kafando2000&show_icons=true&theme=transparent&hide_border=true" alt="Kafando's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kafando2000" alt="Kafando's GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafando2000" alt="Most-used languages" />
 </p>
 
