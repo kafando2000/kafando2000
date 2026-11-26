@@ -12,14 +12,14 @@ I enjoy building practical software and exploring technologies across web develo
 </p>
 <p align="left">
   <a href="https://github.com/kafando2000/SmartInventoryHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=SmartInventoryHub&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=SmartInventoryHub&hide_border=true" />
   </a>
   <a href="https://github.com/kafando2000/ConfidentVotesAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=ConfidentVotesAPI&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=ConfidentVotesAPI&hide_border=true" />
   </a>
   </a>
   <a href="https://github.com/kafando2000/EaseEventApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=EaseEventApp&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=EaseEventApp&hide_border=true" />
   </a>
 </p>
 
