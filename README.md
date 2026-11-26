@@ -15,7 +15,7 @@ I enjoy building practical software and exploring technologies across web develo
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=SmartInventoryHub&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/kafando2000/ConfidentVotesAPI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=ConfidentVotesAPI&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kafando2000&repo=ConfidentVotesAPI" />
   </a>
   </a>
   <a href="https://github.com/kafando2000/EaseEventApp">
